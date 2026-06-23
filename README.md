@@ -36,7 +36,7 @@ The goal of this project is to demonstrate proper website structure, multi-page 
 
 ## Live Site
 
----
+https://jagarfie.github.io/5-Build/
 
 ## Notes
 This project was built as part of a web development assignment focused on page structure, navigation, responsive design, and accessibility best practices.
